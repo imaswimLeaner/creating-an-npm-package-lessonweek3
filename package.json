@@ -1,0 +1,21 @@
+{
+  "name": "npm-2ndtrial-lesson3",
+  "version": "1.0.0",
+  "description": "To install run:",
+  "main": "index.js",
+  "scripts": {
+    "build": "babel src -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "silly-input": "^1.0.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.16.0",
+    "babel-cli": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1"
+  }
+}

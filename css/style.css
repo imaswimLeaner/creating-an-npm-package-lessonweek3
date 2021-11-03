@@ -1,0 +1,17 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	padding: 2rem;
+}
+
+input {
+	outline: none;
+	margin-bottom: 1rem;
+}
+
+.container {
+	max-width: 1000px;
+	margin: 0 auto;
+}
